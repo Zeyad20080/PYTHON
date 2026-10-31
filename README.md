@@ -1,2 +1,1 @@
 # PYTHON
-Elzero python course
